@@ -39,4 +39,4 @@ Below we can see the full chart of every school and their performances in the sc
 
 ## Summary
 
-Based on the this analysis the schools that 
+In this analysis, I needed to remove the ninth grade test scores from "Thomas High School". This included their Math and Reading scores. This did cause the averages for "Average Math Score", "Average Reading Score, "% Passing Math", "% Passing Reading", and "% Overall passing" to drop slightly. Overall, you can tell that small to medium size schools tend to get better test scores. There also does not seem to be an cooralation between spending more money per student and getting a higher test scores. 
